@@ -1,4 +1,4 @@
-#Version 1.2 with new interface, but without lots of functions
+#Version 1.3 with keyboard input, but without lots of functions
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow
 from PyQt5 import QtCore, QtGui, QtWidgets
